@@ -1,10 +1,15 @@
 <h1 align="center">Hola 👋  Soy Fátima ✨ </h1> 
 
 <p align="left">
-<a href="www.linkedin.com/in/fatima-remmal" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-<a href = "mailto:fatimamremmal@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
-  </p>
+  <a href="https://www.linkedin.com/in/fatima-remmal" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Fátima Remmal"/>
+  </a>
+  <a href="mailto:fatimamremmal@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="fatimamremmal@gmail.com" />
+  </a>
+</p>
 <br>
+
 <h2>Sobre mi 😃</h2>
 <!--Intro start-->
 
