@@ -1,11 +1,11 @@
 # 👋 ¡Hola! Soy Fátima  
 
-<p>🎓 DATA ANALYST</p>  
+<p>🎓 Data Analyst | Data Scientist</p>  
+<p>🤖 Machine Learning | Modelos Predictivos.</p>
 <p>📊 Apasionada por transformar datos en insights útiles.</p>  
 <p>🧠 Creo proyectos personales para seguir aprendiendo y profundizando.</p>  
 <p>💡 Me gusta optimizar procesos, automatizar tareas y encontrar patrones ocultos.</p>  
 
-<p>📫 Contacto: fatimamremmal@gmail.com</p>
 <hr> 
 
 
