@@ -1,10 +1,10 @@
-# 👋 Hola! Soy Fátima
-🎓 DATA ANALYST<br><br>📈 Apasionada por entender y comunicar datos de forma clara y útil. Cada día sigo aprendiendo, explorando nuevas herramientas y formas de contar historias con datos.<br><br>🧠 Creo proyectos personales para experimentar, profundizar conocimientos y mantenerme siempre en movimiento. Aprender haciendo es mi forma favorita de crecer.<br><br>🛠️ Me enfoco en el análisis de datos, la visualización y la generación de insights.<br><br>💡 Me gusta automatizar tareas, optimizar procesos y encontrar patrones que a simple vista no se ven.<br><br>📊 SQL, Python, R, Power BI, Tableau y Excel <br><br>
+# 👋 ¡Hola! Soy Fátima  
+🎓 DATA ANALYST<br><br>  
+📊 Apasionada por transformar datos en insights útiles. <br><br>  
+🧠 Creo proyectos personales para seguir aprendiendo y profundizando. <br><br>  
+💡 Me gusta optimizar procesos, automatizar tareas y encontrar patrones ocultos.<br><br>
+
 📫 Contacto: fatimamremmal@gmail.com
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fatima-remmal/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fatimamremmal@gmail.com)
 
 
 # 💻 Tech Stack:
